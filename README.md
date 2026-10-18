@@ -1,2 +1,8 @@
-# watersim3dand2d
-water sim 3d and 2d
+# Info
+This Repo Provides Two simulators
+1.
+WaterSim 2D
+2.
+WaterSim 3D
+
+## Made with vanilla HTML
